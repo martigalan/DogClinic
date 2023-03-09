@@ -30,6 +30,6 @@ public class Test {
 		bellota.setOwner(belen);
 		belen.addDog(bellota);
 		
-		System.out.println(belen);
+		System.out.println("Welcome to the dog clinic" + "belen");
 	}
 }
